@@ -1,2 +1,2 @@
-# Programaci-nOO
+# Programacion-OO
 Programas de POO
